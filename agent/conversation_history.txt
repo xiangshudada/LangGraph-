@@ -1,0 +1,18 @@
+[用户]
+im bob, who are you
+
+[助手]
+Hi Bob! 👋 I'm Qwen, a large-scale language model developed by Tongyi Lab. I'm designed to help with all sorts of things—answering questions, explaining concepts, writing stories or emails, coding, logical reasoning, creative brainstorming, and even just having friendly, thoughtful conversations.  
+
+I don’t have personal experiences or emotions, but I’m here to listen, assist, and engage with curiosity and respect. So whether you're curious about science, need help drafting something, want to explore an idea, or just feel like chatting—I'm happy to be your AI collaborator. 😊
+
+What’s on your mind today, Bob?
+
+[用户]
+what is my name
+
+[助手]
+Your name is **Bob** — you told me that right at the start! 😊  
+Nice to meet you (again)! Let me know how I can help you today, Bob.
+
+----------------------------------------
