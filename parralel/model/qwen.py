@@ -11,6 +11,6 @@ qwen = init_chat_model(
     temperature=0.5,
     timeout=30,
     max_tokens=1000,
-    api_key=os.getenv("DASHSCOPE_API_KEY"),  # 必须写
-    base_url=os.getenv("DASHSCOPE_BASE_URL"),  # 必须写
+    api_key="sk-9ae18d6b0bc04e88a7f5777450ab632a",  # 必须写
+    base_url="https://dashscope.aliyuncs.com/compatible-mode/v1",  # 必须写
 )
